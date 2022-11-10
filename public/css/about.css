@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    column-gap: 2.5rem;
+    row-gap: 4.5rem;
+    flex-wrap: wrap;
+    padding: 45px 40px;
+    justify-content: center;
+}
+
+img {
+    height: 230px;
+}
